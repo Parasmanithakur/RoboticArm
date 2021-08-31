@@ -1,3 +1,3 @@
 # RoboticArm
 Robotic Arm Stimulation
-![](https://github.com/Parasmanithakur/Chess/blob/main/Untitled.png)
+![](https://github.com/Parasmanithakur/RoboticArm/blob/master/robotics.png)
